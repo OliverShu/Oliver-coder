@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>我的设置</string>
+		<key>imageUrl</key>
+		<string>account_setting.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>扫描应用</string>
+		<key>imageUrl</key>
+		<string>account_favorite.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>我的账户</string>
+		<key>imageUrl</key>
+		<string>account_user.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>我的收藏</string>
+		<key>imageUrl</key>
+		<string>account_collect.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>我的下载</string>
+		<key>imageUrl</key>
+		<string>account_download.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>查找附近</string>
+		<key>imageUrl</key>
+		<string>account_comment.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>我的帮助</string>
+		<key>imageUrl</key>
+		<string>account_help.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>蚕豆应用</string>
+		<key>imageUrl</key>
+		<string>account_candou.png</string>
+	</dict>
+</array>
+</plist>
